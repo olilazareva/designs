@@ -245,6 +245,7 @@ img.mfp-img {
   width: auto;
   max-width: 100%;
   height: auto;
+  max-height: 100vh;
   display: block;
   line-height: 0;
   -webkit-box-sizing: border-box;
