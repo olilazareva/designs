@@ -688,6 +688,11 @@ a.logo:hover {
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
 }
+
+#no-shad:hover .layer {
+    box-shadow: none;
+}
+
 /* PROJECT DETAILS
    ================================================== */
 
