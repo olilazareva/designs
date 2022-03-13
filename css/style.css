@@ -1677,7 +1677,7 @@ ul.dashed li{ text-indent:-5px; }
 }
 
 #thank-you-part {
-  background: -webkit-radial-gradient( #2DCF9EE0 15%, #4C8ED0EE 40%, #882DCF 70%); 
+  background: -webkit-radial-gradient( #2dca15 20%, #ca1515 40%, #000000 60%); 
               -webkit-background-clip: text;
               -webkit-text-fill-color: transparent;
 }
