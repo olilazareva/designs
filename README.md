@@ -1,2 +1,2 @@
 # capstone-template
-https://olilazareva.github.io/capstone-template/
+https://olilazareva.github.io/designs/
